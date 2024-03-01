@@ -1,0 +1,23 @@
+{
+  "name": "bboottedd9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegHarm/bboottedd9.git"
+  },
+  "dependencies": {
+    "sstgbot1": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegHarm/bboottedd9/issues"
+  },
+  "homepage": "https://github.com/OlegHarm/bboottedd9#readme"
+}
